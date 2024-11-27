@@ -1,0 +1,72 @@
+﻿@model IEnumerable<BaiTapLon.Models.nhanvien>
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    ViewBag.Title = "Index";
+}
+
+<h2>Nhân Viên</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+
+        <th>
+            @Html.ActionLink("Tên nhân viên", "Index", new { sortOrder = ViewBag.TenNVSortParm })
+        </th>
+        <th>
+            Ảnh đại diện
+        </th>
+        <th>
+            @Html.ActionLink("Tuổi", "Index", new { sortOrder = ViewBag.TuoiSortParm })
+        </th>
+        <th>
+            @Html.ActionLink("Chức vụ", "Index", new { sortOrder = ViewBag.ChucVuSortParm })
+        </th>
+        <th>
+            @Html.ActionLink("Email", "Index", new { sortOrder = ViewBag.EmailSortParm })
+        </th>
+        <th>
+            @Html.ActionLink("Số điện thoại", "Index", new { sortOrder = ViewBag.SDTSortParm })
+        </th>
+        <th>
+            @Html.ActionLink("Địa chỉ", "Index", new { sortOrder = ViewBag.DiaChiSortParm })
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.TenNV)
+            </td>
+            <td>
+                <img src="@Url.Content("~/assets/images/" + item.Avatar)" alt="Staff Image" width="200px" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tuoi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.chucvu.TenCV)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SDT)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiaChi)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", "Staff", new { item.email }, null)|
+               
+                @Html.ActionLink("Delete", "Delete", "Staff", new { item.email }, null)
+            </td>
+        </tr>
+    }
+
+</table>

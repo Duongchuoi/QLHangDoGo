@@ -1,0 +1,736 @@
+﻿@model IEnumerable<BaiTapLon.Models.ProductViewModel>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--
+      - primary meta tag
+    -->
+    <title>Woodex - Get Quality Furniture</title>
+    <meta name="title" content="Woodex - Get Quality Furniture">
+    <meta name="description" content="This is an eCommerce html template made by codewithsadee">
+
+    <!--
+      - favicon
+    -->
+    <link rel="shortcut icon" href="~/favicon.svg" type="image/svg+xml">
+
+    <!--
+      - custom css link
+    -->
+    <link rel="stylesheet" href="~/assets/css/style.css">
+
+    <!--
+      - google font link
+    -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Mr+De+Haviland&family=Roboto:wght@400;500;700&display=swap"
+          rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11">
+
+    <!--
+      - preload images
+    -->
+    <link rel="preload" as="image" href="~/assets/images/hero-product-1.jpg">
+    <link rel="preload" as="image" href="~/assets/images/hero-product-2.jpg">
+    <link rel="preload" as="image" href="~/assets/images/hero-product-3.jpg">
+    <link rel="preload" as="image" href="~/assets/images/hero-product-4.jpg">
+    <link rel="preload" as="image" href="~/assets/images/hero-product-5.jpg">
+
+</head>
+
+<body id="top">
+
+    <!--
+      - #HEADER
+    -->
+
+    <header class="header" data-header>
+        <div class="container">
+
+            <div class="input-wrapper">
+                <input type="search" id="search-input" placeholder="Search Anything..." class="input-field">
+                <button type="button" id="search-button" class="search-button">
+                    <ion-icon name="search-outline" aria-hidden="true"></ion-icon>
+                </button>
+            </div>
+
+            <a href="#" class="logo">Woodex</a>
+
+            <div class="header-action">
+
+                <button id="User" class="header-action-btn" aria-label="user">
+                    <ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+                </button>
+
+                <button class="header-action-btn" aria-label="favorite list">
+                    <ion-icon name="heart-outline" aria-hidden="true"></ion-icon>
+
+                    <span class="btn-badge">0</span>
+                </button>
+
+                <button id="Cart" class="header-action-btn" aria-label="cart">
+                    <ion-icon name="bag-handle-outline" aria-hidden="true"></ion-icon>
+
+                    <span class="btn-badge" id="cartItemCount">0</span>
+                </button>
+
+                <button class="header-action-btn" aria-label="open menu" data-nav-toggler>
+                    <ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+                </button>
+
+            </div>
+
+        </div>
+    </header>
+
+
+
+
+
+    <!--
+      - #SIDEBAR
+    -->
+
+    <div class="sidebar" data-navbar>
+
+        <button class="nav-close-btn" aria-label="close menu" data-nav-toggler>
+            <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+        </button>
+
+        <div class="wrapper">
+
+            <ul class="sidebar-list">
+
+                <li>
+                    <p class="sidebar-list-title">Language</p>
+                </li>
+
+                <li>
+                    <a href="#" class="sidebar-link">English</a>
+                </li>
+
+                <li>
+                    <a href="#" class="sidebar-link">French</a>
+                </li>
+
+                <li>
+                    <a href="#" class="sidebar-link">Arabric</a>
+                </li>
+
+            </ul>
+
+            <ul class="sidebar-list">
+
+                <li>
+                    <p class="sidebar-list-title">Currency</p>
+                </li>
+
+                <li>
+                    <a href="#" class="sidebar-link">USD - US Dollar</a>
+                </li>
+
+                <li>
+                    <a href="#" class="sidebar-link">Euro</a>
+                </li>
+
+                <li>
+                    <a href="#" class="sidebar-link">Pound</a>
+                </li>
+
+            </ul>
+
+        </div>
+
+        <nav class="navbar">
+            <ul class="navbar-list">
+
+                <li class="navbar-item">
+                    <a href="#home" class="navbar-link" data-nav-link>Home</a>
+                </li>
+
+                <li class="navbar-item">
+                    <a href="#about" class="navbar-link" data-nav-link>About</a>
+                </li>
+
+                <li class="navbar-item">
+                    <a href="#product" class="navbar-link" data-nav-link>Product</a>
+                </li>
+
+                <li class="navbar-item">
+                    <a href="#blog" class="navbar-link" data-nav-link>Blogs</a>
+                </li>
+
+            </ul>
+        </nav>
+
+        <ul class="contact-list">
+
+            <li>
+                <p class="contact-list-title">Contact Us</p>
+            </li>
+
+            <li class="contact-item">
+                <address class="address">
+                    69 Halsey St, Ny 10002, New York, United States
+                </address>
+            </li>
+
+            <li class="contact-item">
+                <a href="mailto:support.center@woodex.co" class="contact-link">support.center@woodex.co</a>
+            </li>
+
+            <li class="contact-item">
+                <a href="tel:00001235567890" class="contact-link">(0000) 1235 567890</a>
+            </li>
+
+        </ul>
+
+        <div class="social-wrapper">
+
+            <p class="social-list-title">Follow US On Socials</p>
+
+            <ul class="social-list">
+
+                <li>
+                    <a href="#" class="social-link">
+                        <ion-icon name="logo-facebook"></ion-icon>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="#" class="social-link">
+                        <ion-icon name="logo-twitter"></ion-icon>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="#" class="social-link">
+                        <ion-icon name="logo-tumblr"></ion-icon>
+                    </a>
+                </li>
+
+            </ul>
+
+        </div>
+
+    </div>
+
+    <div class="overlay" data-overlay data-nav-toggler></div>
+
+
+
+
+
+    <main>
+        <article>
+
+            <!--
+              - #HERO
+            -->
+
+            <section class="section hero" id="home" aria-label="home">
+                <div class="container">
+
+                    <ul class="hero-list">
+
+                        <li>
+                            <div class="hero-card">
+
+                                <figure class="card-banner img-holder" style="--width: 285; --height: 396;">
+                                    <img src="~/assets/images/hero-product-1.jpg" width="285" height="396" alt="Art Deco Home"
+                                         class="img-cover">
+                                </figure>
+
+                                <div class="card-content">
+                                    <h3>
+                                        <a href="#" class="card-title">Art Deco Home</a>
+                                    </h3>
+
+                                    <p class="card-text">Decoration</p>
+                                </div>
+
+                            </div>
+                        </li>
+
+                        <li class="colspan-2">
+                            <div class="hero-card">
+
+                                <figure class="card-banner img-holder" style="--width: 568; --height: 389;">
+                                    <img src="~/assets/images/hero-product-2.jpg" width="568" height="389" alt="Helen Chair"
+                                         class="img-cover">
+                                </figure>
+
+                                <div class="card-content">
+                                    <h3>
+                                        <a href="#" class="card-title">Helen Chair</a>
+                                    </h3>
+
+                                    <p class="card-text">Decoration</p>
+                                </div>
+
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="hero-card">
+
+                                <figure class="card-banner img-holder" style="--width: 285; --height: 396;">
+                                    <img src="~/assets/images/hero-product-3.jpg" width="285" height="396" alt="Vase Of Flowers"
+                                         class="img-cover">
+                                </figure>
+
+                                <div class="card-content">
+                                    <h3>
+                                        <a href="#" class="card-title">Vase Of Flowers</a>
+                                    </h3>
+
+                                    <p class="card-text">Decoration</p>
+                                </div>
+
+                            </div>
+                        </li>
+
+                        <li class="colspan-2">
+                            <div class="hero-card">
+
+                                <figure class="card-banner img-holder" style="--width: 580; --height: 213;">
+                                    <img src="~/assets/images/hero-product-4.jpg" width="580" height="213" alt="Wood Eggs"
+                                         class="img-cover">
+                                </figure>
+
+                                <div class="card-content">
+                                    <h3>
+                                        <a href="#" class="card-title">Wood Eggs</a>
+                                    </h3>
+
+                                    <p class="card-text">Decoration</p>
+                                </div>
+
+                            </div>
+                        </li>
+
+                        <li class="colspan-2">
+                            <div class="hero-card">
+
+                                <figure class="card-banner img-holder" style="--width: 580; --height: 213;">
+                                    <img src="~/assets/images/hero-product-5.jpg" width="580" height="213" alt="Table Wood Pine"
+                                         class="img-cover">
+                                </figure>
+
+                                <div class="card-content">
+                                    <h3>
+                                        <a href="#" class="card-title">Table Wood Pine</a>
+                                    </h3>
+
+                                    <p class="card-text">Furniture</p>
+                                </div>
+
+                            </div>
+                        </li>
+
+                    </ul>
+
+                </div>
+            </section>
+
+
+
+
+
+            <!--
+              - #ABOUT
+            -->
+
+            <section class="section about" id="about" aria-label="about">
+                <div class="container">
+
+                    <h2 class="section-title">Woodex Store</h2>
+
+                    <p class="section-text">
+                        When you start with a portrait and search for a pure form, a clear volume, through successive eliminations,
+                        you arrive
+                        inevitably at the egg. Likewise, starting with the egg and following the same process in reverse, one
+                        finishes with the
+                        portrait.
+                    </p>
+
+                    <div class="about-card">
+                        <figure class="card-banner img-holder" style="--width: 1170; --height: 450;">
+                            <img src="~/assets/images/about-banner.jpg" width="1170" height="450" loading="lazy" alt="Woodex promo"
+                                 class="img-cover">
+                        </figure>
+
+                        <button class="play-btn" aria-label="play video">
+                            <ion-icon name="play-circle-outline" aria-hidden="true"></ion-icon>
+                        </button>
+                    </div>
+
+                </div>
+            </section>
+
+
+
+
+
+            <!--
+              - #PRODUCTS
+            -->
+
+            <section class="section product" id="product" aria-label="product">
+                <div class="container">
+
+                    <div class="title-wrapper">
+                        <h2 class="h2 section-title">Popular Products</h2>
+
+                        <ul class="filter-btn-list">
+
+                            <li class="filter-btn-item">
+                                <button class="filter-btn active" data-filter-btn="all">All Products</button>
+                            </li>
+
+                            <li class="filter-btn-item">
+                                <button class="filter-btn" data-filter-btn="accessory">Accessory</button>
+                            </li>
+
+                            <li class="filter-btn-item">
+                                <button class="filter-btn" data-filter-btn="decoration">Decoration</button>
+                            </li>
+
+                            <li class="filter-btn-item">
+                                <button class="filter-btn" data-filter-btn="furniture">Furniture</button>
+                            </li>
+
+                        </ul>
+                    </div>
+
+                    <ul class="grid-list product-list" data-filter="all">
+                        @foreach (var item in Model)
+                        {
+                            <li id="product-@item.Product.MaSP" class="@Html.DisplayFor(modelItem => item.Product.Loai)">
+                                <div class="product-card">
+                                    <a href="#" class="card-banner img-holder has-before" style="--width: 300; --height: 300;">
+                                        <img src="~/assets/images/@Html.DisplayFor(modelItem => item.Product.Anh)" width="300" height="300" loading="lazy"
+                                             alt="@Html.DisplayFor(modelItem => item.Product.TenSP)" class="img-cover">
+                                        <ul class="card-action-list">
+                                            <li>
+                                                @using (Html.BeginForm("Index", "Home", new { item.Product.MaSP }, FormMethod.Post, new { enctype = "multipart/form-data" }))
+                                                {
+                                                    @Html.AntiForgeryToken()
+                                                    <input type="hidden" name="productId" value="Add" />
+                                                    <button type="submit" class="card-action-btn" aria-label="add to cart" title="add to cart">
+                                                        <ion-icon name="add-outline" aria-hidden="true"></ion-icon>
+                                                    </button>
+                                                }
+                                                @if (TempData["Message"] != null)
+                                                {
+                                                    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+                                                    <script>
+                                                        Swal.fire({
+                                                            icon: 'info',
+                                                            title: 'Thông báo',
+                                                            text: "Sản phẩm đã tồn tại trong giỏ hàng",
+                                                        });
+                                                    </script>
+                                                }
+                                            </li>
+                                            <li>
+                                                <button class="card-action-btn" aria-label="add to cart" title="add to cart">
+                                                    <ion-icon name="bag-handle-outline" aria-hidden="true"></ion-icon>
+                                                </button>
+                                            </li>
+                                            <li>
+                                                <button class="card-action-btn" aria-label="add to whishlist" title="add to whishlist">
+                                                    <ion-icon name="heart-outline" aria-hidden="true"></ion-icon>
+                                                </button>
+                                            </li>
+                                        </ul>
+                                    </a>
+                                    <div class="card-content">
+                                        <h3 class="h3">
+                                            <a href="#" class="card-title">@Html.DisplayFor(modelItem => item.Product.TenSP)</a>
+                                        </h3>
+                                        <div class="card-price">
+                                            <data class="price">@Html.DisplayFor(modelItem => item.Product.Gia)$</data>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        }
+
+</div>
+            </section>
+
+        </article>
+    </main>
+
+
+
+
+    <!--
+      - #FOOTER
+    -->
+
+    <footer class="footer">
+        <div class="container">
+
+            <div class="footer-top section">
+
+                <div class="footer-brand">
+
+                    <a href="#" class="logo">Woodex</a>
+
+                    <ul>
+
+                        <li class="footer-list-item">
+                            <ion-icon name="location-sharp" aria-hidden="true"></ion-icon>
+
+                            <address class="address">
+                                Woodex, Chicago, USA 2022
+                            </address>
+                        </li>
+
+                        <li class="footer-list-item">
+                            <ion-icon name="call-sharp" aria-hidden="true"></ion-icon>
+
+                            <a href="tel:+1234567890" class="footer-link">+1234567890</a>
+                        </li>
+
+                        <li>
+                            <ul class="social-list">
+
+                                <li>
+                                    <a href="#" class="social-link">
+                                        <ion-icon name="logo-facebook"></ion-icon>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a href="#" class="social-link">
+                                        <ion-icon name="logo-twitter"></ion-icon>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a href="#" class="social-link">
+                                        <ion-icon name="logo-tumblr"></ion-icon>
+                                    </a>
+                                </li>
+
+                            </ul>
+                        </li>
+
+                    </ul>
+
+                </div>
+
+                <ul class="footer-list">
+
+                    <li>
+                        <p class="footer-list-title">Help & Information</p>
+                    </li>
+
+                    <li>
+                        <a href="#" class="footer-link">Help & Contact Us</a>
+                    </li>
+
+                    <li>
+                        <a href="#" class="footer-link">Returns & Refunds</a>
+                    </li>
+
+                    <li>
+                        <a href="#" class="footer-link">Online Stores</a>
+                    </li>
+
+                    <li>
+                        <a href="#" class="footer-link">Terms & Conditions</a>
+                    </li>
+
+                </ul>
+
+                <ul class="footer-list">
+
+                    <li>
+                        <p class="footer-list-title">About Us</p>
+                    </li>
+
+                    <li>
+                        <a href="#" class="footer-link">About Us</a>
+                    </li>
+
+                    <li>
+                        <a href="#" class="footer-link">What We Do</a>
+                    </li>
+
+                    <li>
+                        <a href="#" class="footer-link">FAQ Page</a>
+                    </li>
+
+                    <li>
+                        <a href="#" class="footer-link">Contact Us</a>
+                    </li>
+
+                </ul>
+
+                <div class="footer-list">
+
+                    <p class="footer-list-title">Newsletter</p>
+
+                    <form action="" class="footer-form">
+                        <input type="email" name="email_address" placeholder="Your email address" required class="email-field">
+
+                        <button type="submit" class="footer-form-btn">
+                            <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+                        </button>
+                    </form>
+
+                    <div class="wrapper">
+
+                        <a href="#" class="footer-link">Term & Condition</a>
+                        <a href="#" class="footer-link">Policy</a>
+                        <a href="#" class="footer-link">Map</a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="footer-bottom">
+
+                <p class="copyright">
+                    &copy; 2022 All Rights Reserved by <a href="#" class="copyright-link">codewithsadee</a>.
+                </p>
+
+            </div>
+
+        </div>
+    </footer>
+
+
+
+
+
+    <!--
+      - #BACK TO TOP
+    -->
+
+    <a href="#top" class="back-top-btn" aria-label="back to top" data-back-top-btn>
+        <ion-icon name="arrow-up" aria-hidden="true"></ion-icon>
+    </a>
+
+
+
+
+
+    <!--
+      - custom js link
+    -->
+    <script src="~/assets/js/script.js" defer></script>
+
+    <!--
+      - ionicon link
+    -->
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+</body>
+
+</html>
+@section Scripts {
+    <script>
+        document.getElementById('User').addEventListener('click', function () {
+            // Sử dụng Url.Action để tạo URL cho action CheckSession
+            var url = '@Url.Action("CheckSession", "Home")'; // Thay ControllerName bằng tên thực của Controller
+            // Chuyển hướng đến URL được tạo
+            window.location.href = url;
+        });
+        document.getElementById('Cart').addEventListener('click', function () {
+            window.location.href = '@Url.Action("Cart", "Home", new { id = 1 })';
+        });
+        // Hảm hiển thị số sản phẩm trong giỏ hàng
+        function updateCartItemCount(count) {
+            $('#cartItemCount').text(count);
+        }
+
+        // Hàm để lấy số lượng từ server và cập nhật
+        function getCartItemCountFromServer() {
+            $.ajax({
+                type: 'GET',
+                url: '/Home/GetCartItemCount', // Đặt đúng đường dẫn đến action trong controller
+                success: function (response) {
+                    // Cập nhật số lượng trên biểu tượng giỏ hàng
+                    updateCartItemCount(response.count);
+                },
+                error: function () {
+                    console.log('Đã xảy ra lỗi khi gửi yêu cầu đếm số lượng từ giỏ hàng.');
+                }
+            });
+        }
+
+        // Gọi hàm khi trang được tải
+        $(document).ready(function () {
+            // Gọi hàm để cập nhật số lượng từ server khi trang được tải
+            getCartItemCountFromServer();
+        });
+
+        // Gọi hàm sau khi có thay đổi trong giỏ hàng
+        // Thay đổi này có thể xảy ra sau khi thêm hoặc xóa sản phẩm từ giỏ hàng
+        // Gọi hàm này để cập nhật số lượng trên biểu tượng giỏ hàng
+        getCartItemCountFromServer();
+
+        // Hàm tìm kiếm
+        $(document).ready(function () {
+            // Gắn sự kiện cho việc nhấn phím Enter trên ô input tìm kiếm
+            $('#search-input').on('keypress', function (e) {
+                if (e.which === 13) { // Kiểm tra nếu phím nhấn là Enter
+                    e.preventDefault(); // Ngăn chặn hành động mặc định của phím Enter (submit form)
+                    searchProduct(); // Gọi hàm tìm kiếm sản phẩm
+                }
+            });
+
+            // Gắn sự kiện cho nút tìm kiếm
+            $('#search-button').on('click', function () {
+                searchProduct(); // Gọi hàm tìm kiếm sản phẩm
+            });
+
+            // Hàm tìm kiếm sản phẩm
+            function searchProduct() {
+                var searchTerm = $('#search-input').val().trim(); // Lấy từ khóa tìm kiếm từ ô input
+                if (searchTerm !== "") {
+                    $.ajax({
+                        type: 'GET',
+                        url: '/Home/Search',
+                        data: { searchTerm: searchTerm },
+                        success: function (response) {
+                            // Xử lý kết quả trả về
+                            console.log(response); // In ra console để kiểm tra
+                            // Cuộn trang xuống vị trí của sản phẩm đầu tiên sau khi tìm kiếm thành công
+                            scrollToFirstProduct();
+                        },
+                        error: function () {
+                            alert('Đã xảy ra lỗi khi tìm kiếm');
+                        }
+                    });
+                } else {
+                    alert('Vui lòng nhập từ khóa tìm kiếm');
+                }
+            }
+
+            // Hàm cuộn trang xuống vị trí của sản phẩm đầu tiên sau khi tìm kiếm thành công
+            function scrollToFirstProduct() {
+                var productTop = $('.product-card:first').offset().top; // Lấy vị trí của sản phẩm đầu tiên trong danh sách
+                $('html, body').animate({ scrollTop: productTop }, 'slow'); // Cuộn trang xuống vị trí của sản phẩm đầu tiên
+            }
+        });
+    </script>
+}

@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f8f9fa;
+        }
+
+        .navbar {
+            margin-bottom: 20px;
+        }
+
+        .sidebar {
+            height: 100%;
+            position: fixed;
+            left: 0;
+            top: 0;
+            padding-top: 60px;
+            background-color: #343a40;
+            color: white;
+        }
+
+            .sidebar a {
+                color: white;
+                padding: 15px;
+                text-decoration: none;
+                display: block;
+            }
+
+                .sidebar a:hover {
+                    background-color: #495057;
+                }
+
+        .content {
+            margin-left: 200px;
+            padding: 20px;
+        }
+
+        .footer {
+            background-color: #343a40;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+
+        .dashboard-item {
+            background-color: #fff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+
+            .dashboard-item h4 {
+                margin-bottom: 15px;
+            }
+    </style>
+</head>
+<body>
+   @* <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="navbar-brand">Admin</div>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="@Url.Action("Dashboard", "Admin")">Dashboard</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="@Url.Action("Index", "Product")">Quản lý sản phẩm <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="@Url.Action("Index", "Staff")">Quản lý nhân viên</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="@Url.Action("Index", "Order")">Quản lý đơn hàng</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="@Url.Action("Index", "User")">Quản lý người dùng</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="@Url.Action("Settings", "Admin")">Cài đặt</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="@Url.Action("Notifications", "Admin")">Thông báo</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="@Url.Action("Reports", "Admin")">Báo cáo</a>
+                </li>
+            </ul>
+        </div>
+    </nav>*@
+    <div class="sidebar">
+        <a href="@Url.Action("Dashboard", "Admin")">Dashboard</a>
+        <a href="@Url.Action("Index", "Product")">Quản lý sản phẩm</a>
+        <a href="@Url.Action("Index", "Staff")">Quản lý nhân viên</a>
+        <a href="@Url.Action("Index", "Order")">Quản lý đơn hàng</a>
+        <a href="@Url.Action("RevenueStatistics", "Admin")">Thông kê doanh thu</a>
+        <a href="@Url.Action("Reports", "Admin")">Báo cáo</a>
+    </div>
+    <div class="content">
+        @RenderBody()
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

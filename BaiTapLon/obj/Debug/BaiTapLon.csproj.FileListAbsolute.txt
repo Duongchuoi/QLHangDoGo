@@ -1,0 +1,315 @@
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\BaiTapLon.dll.config
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\BaiTapLon.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\BaiTapLon.pdb
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\csc.exe
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\csc.exe.config
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\csc.rsp
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\csi.exe
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\csi.exe.config
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\csi.rsp
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.AppContext.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.Collections.Immutable.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.Console.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.Globalization.Calendars.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.IO.Compression.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.IO.FileSystem.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.Net.Http.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.Net.Sockets.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.ValueTuple.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.Xml.XPath.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\vbc.exe
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\vbc.exe.config
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\vbc.rsp
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\VBCSCompiler.exe
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\roslyn\VBCSCompiler.exe.config
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\Antlr3.Runtime.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\EntityFramework.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\EntityFramework.SqlServer.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\Microsoft.Web.Infrastructure.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\Newtonsoft.Json.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Web.Helpers.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Web.Mvc.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Web.Optimization.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Web.Razor.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Web.WebPages.Deployment.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Web.WebPages.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Web.WebPages.Razor.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\WebGrease.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\EntityFramework.xml
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\EntityFramework.SqlServer.xml
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Web.Helpers.xml
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Web.Mvc.xml
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Web.Optimization.xml
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Web.Razor.xml
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Web.WebPages.xml
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Web.WebPages.Deployment.xml
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Web.WebPages.Razor.xml
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\Newtonsoft.Json.xml
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\Antlr3.Runtime.pdb
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.AssemblyReference.cache
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.CopyComplete
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.pdb
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\Microsoft.Extensions.Primitives.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\Microsoft.Net.Http.Headers.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Buffers.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Memory.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Numerics.Vectors.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Text.Encodings.Web.dll
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\Microsoft.Extensions.Primitives.xml
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\Microsoft.Net.Http.Headers.xml
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Buffers.xml
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Memory.xml
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Numerics.Vectors.xml
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Code\webnangcao\BaiTapLon\BaiTapLon\bin\System.Text.Encodings.Web.xml
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\BaiTapLon.dll.config
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\BaiTapLon.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\BaiTapLon.pdb
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\csc.exe
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\csc.exe.config
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\csc.rsp
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\csi.exe
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\csi.exe.config
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\csi.rsp
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.Managed.Core.targets
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.AppContext.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Collections.Immutable.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Console.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Globalization.Calendars.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.IO.Compression.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.IO.FileSystem.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Net.Http.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Net.Sockets.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Reflection.Metadata.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.ValueTuple.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Xml.XmlDocument.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Xml.XPath.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\vbc.exe
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\vbc.exe.config
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\vbc.rsp
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\VBCSCompiler.exe
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\VBCSCompiler.exe.config
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Antlr3.Runtime.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\EntityFramework.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\EntityFramework.SqlServer.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.Extensions.Primitives.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.Net.Http.Headers.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.Web.Infrastructure.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Newtonsoft.Json.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Buffers.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Memory.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Numerics.Vectors.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Text.Encodings.Web.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.Helpers.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.Mvc.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.Optimization.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.Razor.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.WebPages.Deployment.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.WebPages.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.WebPages.Razor.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\WebGrease.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\EntityFramework.xml
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\EntityFramework.SqlServer.xml
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.Extensions.Primitives.xml
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.Net.Http.Headers.xml
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Buffers.xml
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Memory.xml
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Numerics.Vectors.xml
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Text.Encodings.Web.xml
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.Helpers.xml
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.Mvc.xml
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.Optimization.xml
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.Razor.xml
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.WebPages.xml
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.WebPages.Deployment.xml
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.WebPages.Razor.xml
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Newtonsoft.Json.xml
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Antlr3.Runtime.pdb
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.AssemblyReference.cache
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.CopyComplete
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.dll
+D:\C#\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.pdb
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\BaiTapLon.dll.config
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\BaiTapLon.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\BaiTapLon.pdb
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\csc.exe
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\csc.exe.config
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\csc.rsp
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\csi.exe
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\csi.exe.config
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\csi.rsp
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.AppContext.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Collections.Immutable.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Console.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Globalization.Calendars.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.IO.Compression.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.IO.FileSystem.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Net.Http.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Net.Sockets.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.ValueTuple.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Xml.XPath.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\vbc.exe
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\vbc.exe.config
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\vbc.rsp
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\VBCSCompiler.exe
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\roslyn\VBCSCompiler.exe.config
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Antlr3.Runtime.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\EntityFramework.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\EntityFramework.SqlServer.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.Extensions.Primitives.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.Net.Http.Headers.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.Web.Infrastructure.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Newtonsoft.Json.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Buffers.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Memory.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Numerics.Vectors.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Text.Encodings.Web.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.Helpers.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.Mvc.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.Optimization.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.Razor.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.WebPages.Deployment.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.WebPages.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.WebPages.Razor.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\WebGrease.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\EntityFramework.xml
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\EntityFramework.SqlServer.xml
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.Extensions.Primitives.xml
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.Net.Http.Headers.xml
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Buffers.xml
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Memory.xml
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Numerics.Vectors.xml
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Text.Encodings.Web.xml
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.Helpers.xml
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.Mvc.xml
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.Optimization.xml
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.Razor.xml
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.WebPages.xml
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.WebPages.Deployment.xml
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\System.Web.WebPages.Razor.xml
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Newtonsoft.Json.xml
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Antlr3.Runtime.pdb
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.AssemblyReference.cache
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.dll
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.pdb
+C:\Code\webnangcao\BaiTapLon (1) - Copy\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.Up2Date

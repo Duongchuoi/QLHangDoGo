@@ -1,0 +1,63 @@
+/* Import custom properties from style.css */
+
+/* Additional styles for the cart page */
+body {
+    background-color: var(--white);
+    color: var(--black);
+    font-family: var(--ff-roboto); /* Assuming this is the font used in the main page */
+}
+
+.header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: var(--white);
+    padding-block: 15px;
+    z-index: 4;
+    box-shadow: var(--shadow);
+}
+
+.header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.logo {
+    align-items: center;
+    font-size: 3.3rem;
+    font-weight: var(--fw-700);
+    color: var(--tan-crayola); /* Use the same color as in the main page */
+}
+
+.header-action {
+    display: flex;
+    gap: 15px;
+}
+
+.header-action-btn {
+    position: relative;
+    font-size: 24px;
+    transition: var(--transition-1);
+    color: var(--black); /* Use the same color as in the main page */
+}
+
+.header-action-btn:hover {
+    color: var(--tan-crayola);
+}
+
+.header-action-btn .btn-badge {
+    background-color: var(--tan-crayola);
+    color: var(--white);
+    font-size: var(--fs-6);
+    font-weight: var(--fw-500);
+    position: absolute;
+    bottom: -10px;
+    right: -10px;
+    padding-inline: 6px;
+    border-radius: 50%;
+}
+
+/* Add other styles as needed for your header */

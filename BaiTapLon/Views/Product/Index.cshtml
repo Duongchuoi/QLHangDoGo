@@ -1,0 +1,69 @@
+﻿@model IEnumerable<BaiTapLon.Models.sanpham>
+
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    ViewBag.Title = "Quản lý sản phẩm";
+}
+
+<h2>Quản lý sản phẩm</h2>
+
+<p>
+    @Html.ActionLink("Tạo sản phẩm mới", "Create", "Product")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.ActionLink("Mã SP", "Index", new { sortOrder = ViewBag.MaSPSortParm })
+        </th>
+        <th>
+            @Html.ActionLink("Tên SP", "Index", new { sortOrder = ViewBag.TenSPSortParm })
+        </th>
+        <th>
+            @Html.ActionLink("Mô tả", "Index", new { sortOrder = ViewBag.MoTaSortParm })
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Anh)
+        </th>
+        <th>
+            @Html.ActionLink("Loại", "Index", new { sortOrder = ViewBag.LoaiSortParm })
+        </th>
+        <th>
+            @Html.ActionLink("Số lượng", "Index", new { sortOrder = ViewBag.SoLuongSortParm })
+        </th>
+        <th>
+            @Html.ActionLink("Giá", "Index", new { sortOrder = ViewBag.GiaSortParm })
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaSP)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenSP)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MoTa)
+            </td>
+            <td>
+                <img src="@Url.Content("~/assets/images/" + item.Anh)" alt="Product Image" width="200px" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Loai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoLuong)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gia) $
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", "Product", new { item.MaSP }, null) |
+                @Html.ActionLink("Delete", "Delete", "Product", new { item.MaSP }, null)
+            </td>
+        </tr>
+    }
+</table>

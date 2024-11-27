@@ -1,0 +1,51 @@
+﻿@model IEnumerable<BaiTapLon.Models.donhang>
+
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    ViewBag.Title = "Index";
+}
+
+<h2>Quản lý đơn hàng</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.ActionLink("Tên sản phẩm", "Index", new {sortOrder = ViewBag.TenSPSortParm })
+        </th>
+        <th>
+            @Html.ActionLink("Tài khoản", "Index", new { sortOrder = ViewBag.TkSortParm })
+        </th>
+        <th>
+            @Html.ActionLink("Thời gian", "Index", new { sortOrder = ViewBag.ThoiGianSortParm })
+        </th>
+        <th>
+            @Html.ActionLink("Số lượng", "Index", new { sortOrder = ViewBag.SoLuongSortParm })
+        </th>
+        <th>
+            @Html.ActionLink("Địa chỉ", "Index", new { sortOrder = ViewBag.DiaChiSortParm })
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.sanpham.TenSP)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tk)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ThoiGian)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoLuong)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiaChi)
+            </td>
+        </tr>
+    }
+</table>
+
